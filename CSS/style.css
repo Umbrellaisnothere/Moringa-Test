@@ -1,0 +1,35 @@
+body
+{
+    background-image: url('https://media.istockphoto.com/id/155392199/photo/light-bulb-brain.webp?b=1&s=170667a&w=0&k=20&c=V6zOxQZCrFJZlCQUjybEiAu68QYYNiQLrJ5pyZaBdqU=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px 200px 50px 200px ;
+}
+
+.image
+{
+   block-size: 300px;
+   position: absolute;
+   top: 20px;
+   right: 20px;
+   float: right;
+   border-radius: 5em;
+   padding: 1em;
+}
+h1
+{
+color: rgb(0, 0, 0);
+text-align: center;
+}
+
+p
+{
+text-align: center;
+color: rgb(0, 0, 0);
+size: 20%;
+}
+
+#wrapper
+{
+    color: rgb(0, 0, 0);
+}
